@@ -1,0 +1,12 @@
+Simple GEMM Result
+
+58 64 
+139 154 
+
+Blocked GEMM Result
+
+58 64 
+139 154 
+
+Simple GEMM Time : 0 ms
+Blocked GEMM Time : 0 ms
