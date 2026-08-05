@@ -1,12 +1,13 @@
-Simple GEMM Result
-
+Algorithm : Simple GEMM
+Result Matrix:
 58 64 
 139 154 
 
-Blocked GEMM Result
+Execution Time : 0 ms
 
+Algorithm : Blocked GEMM
+Result Matrix:
 58 64 
 139 154 
 
-Simple GEMM Time : 0 ms
-Blocked GEMM Time : 0 ms
+Execution Time : 0 ms
