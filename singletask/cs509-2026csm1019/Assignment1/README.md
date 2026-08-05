@@ -1,6 +1,11 @@
 
 # Assignment 01 - General Matrix Multiplication (GEMM)
 
+## To run 
+step1-cd singletask/cs509_2026csm1019/Assignment1
+step2-g++ driver/driver.cpp src/Matrix.cpp src/GEMM.cpp -Iinclude -o main
+step3-.\main.exe
+
 ## Assignment Mode
 
 Single (Individual)
