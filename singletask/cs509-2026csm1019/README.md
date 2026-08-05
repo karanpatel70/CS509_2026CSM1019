@@ -14,7 +14,7 @@ The repository follows the structure recommended in the CS509 Lab Work Guideline
 
 **Name:** Karan Patel
 
-**Entry Number:** <Your Entry Number>
+**Entry Number:** 2026CSM1019
 
 **Course:** CS509
 
@@ -45,7 +45,7 @@ Operating System
 ## Directory Structure
 
 ```
-CS509_<EntryNumber>/
+CS509_2026csm1019/
 
 │── README.md
 
